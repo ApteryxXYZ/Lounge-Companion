@@ -1,0 +1,19 @@
+{
+    "name": "lounge-companion",
+    "version": "1.1.0",
+    "description": "A Discord bot created for the Werewolf Online Lounge server.",
+    "main": "start.js",
+    "scripts": {
+        "start": "node start.js"
+    },
+    "keywords": [
+        "discord",
+        "reaction"
+    ],
+    "author": "Blackbox Software",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "dotenv": "^8.2.0"
+    }
+}
